@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-1bdr42.agen1384hbt.site/sitemap.xml
